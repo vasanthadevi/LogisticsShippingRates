@@ -1,14 +1,13 @@
-In Git workflow, which step involves creating a separate workspace for making changes and developing features without interfering with the main codebase?
-
-1 point
-
-Creating a branch from the main repository and working on the branch
-
-
-Performing an initial commit after selecting the required files
-
-
-Initializing a Git repository in your project's local directory
-
-
-Selecting and moving files to the staging area
+Please consider the below factors while contributing
+Code Style:
+Maintain a consistent code style for readability.
+Documentation:
+Ensure well-documented code for effective collaboration.
+Testing:
+Thoroughly test your changes before submitting a pull request.
+Issue Tracker:
+Check the Issue Tracker for tasks.
+Code Review:
+All contributions undergo a code review process.
+Licensing:
+Contributions are licensed.
